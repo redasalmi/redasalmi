@@ -1,6 +1,6 @@
 ## Hi there, I'm [Reda Salmi](https://redasalmi.netlify.app/) 👋
 
-- I'm a self taugh web developer
+- I'm a self taught web developer
 
 - Check out my portfolio: [redasalmi.netlify.app](https://redasalmi.netlify.app/)
 
