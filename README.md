@@ -1,8 +1,8 @@
-## Hi there, I'm [Reda Salmi](https://redasalmi.netlify.app/) 👋
+## Hi there, I'm [Reda Salmi](https://redacodes.com/) 👋
 
 - I'm a self taught web developer
 
-- Check out my portfolio: [redasalmi.netlify.app](https://redasalmi.netlify.app/)
+- Check out my portfolio: [redacodes.com](https://redacodes.com/)
 
 - I love Javascript and React
 
