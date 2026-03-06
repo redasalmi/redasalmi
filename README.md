@@ -1,9 +1,9 @@
 ## Hi there, I'm [Reda Salmi](https://redacodes.com/) 👋
 
-- I'm a self taught web developer
+- Self-taught developer building things for the web
 
-- Check out my portfolio: [redacodes.com](https://redacodes.com/)
+- Portfolio: [redacodes.com](https://redacodes.com/)
 
-- I love Javascript and React
+- Into modern web technologies, performance, and developer tooling
 
-- My interests are programming 👨‍💻 and gaming 🕹️
+- Programming 👨‍💻 • Gaming 🕹️ • Linux 🐧
